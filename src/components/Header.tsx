@@ -1,0 +1,1 @@
+export default function Header(){return <header className="h-16 bg-white shadow p-5"><input placeholder="Cari hotel, wilayah, owner/PIC..."/></header>}
