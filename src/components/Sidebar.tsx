@@ -1,1 +1,0 @@
-export default function Sidebar(){return <aside className="fixed left-0 top-0 h-screen w-64 bg-slate-900 text-white p-5"><h2>BALEVA</h2><p>NTB Hospitality Database</p><div>Dashboard</div><div>Data Hotel</div><div>Data Wilayah</div><div>Tipe Kamar</div><div>Harga Kamar</div><div>Owner & PIC</div><div>Laporan</div></aside>}

@@ -1,2 +1,0 @@
-import Sidebar from '@/components/Sidebar'; import Header from '@/components/Header'; import StatCard from '@/components/StatCard';
-export default function Dashboard(){return <><Sidebar/><main className="ml-64"><Header/><h1>Dashboard</h1><StatCard title="Total Hotel" value="524"/></main></>}

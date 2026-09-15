@@ -1,1 +1,0 @@
-export default function StatCard({title,value}:{title:string,value:string}){return <div><h3>{title}</h3><b>{value}</b></div>}
